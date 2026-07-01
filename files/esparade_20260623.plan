@@ -1,0 +1,5 @@
+* installed fuse emulator with the correct startup .roms files
+
+after a tour-de-force with the 'zxelda_uoc' in four months with z88dk in C for college, this is the initial entry of the zelda port in asm for the zx spectrum, since the original game is a bit less than 128kb (save system excluded), a full port should be possible, i'm not versed on z80 asm so this will document efforts should someone comes after
+
+this is a write-once file log, if something is marked as a planned feature, search for completion on later dates
